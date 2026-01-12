@@ -3,7 +3,7 @@ package com.fredrischter.minimalist.resource;
 import org.hamcrest.core.IsEqual;
 import org.junit.Test;
 
-import static com.jayway.restassured.RestAssured.given;
+import static io.restassured.RestAssured.given;
 
 public class MoneyTransferResourceTest {
 
